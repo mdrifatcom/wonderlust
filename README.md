@@ -26,7 +26,7 @@ A modern travel community platform built with Next.js, where travelers can explo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/wanderlust.git
+git clone https://github.com/mdrifatcom/wanderlust.git
 ```
 
 2. Install dependencies:
